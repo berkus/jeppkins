@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 if sys.version_info < (2, 6):
     print("must use python 2.6 or greater")
