@@ -1,2 +1,4 @@
 .Skype/
 .DS_Store
+nohup.out
+*.pyc
