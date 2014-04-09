@@ -6,6 +6,7 @@ import simplejson
 import datetime
 import cPickle as pickle
 import support
+import auth
 import sys
 import re
 import os
